@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:21.802923
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:57
 #+TITLE: 觀心論
 #+PROPERTY: CBETA_ID T85n2833
 #+PROPERTY: ID KR6q0105
