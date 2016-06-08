@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:21.802923
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:57
 #+TITLE: 觀心論
 #+PROPERTY: CBETA_ID T85n2833
 #+PROPERTY: ID KR6q0105
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2833
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0105_T_000-1270c>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0105_T_001-1270c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.2833¶
-
- 觀心論¶
+No. 2833¶
+觀心論¶
 ¶
 
 是觀心可名為了　又問。上說真如佛性一¶
@@ -213,7 +212,7 @@ No.2833¶
 夫。所以令人無能悟解。其溫室者。即身是也。¶
 所以然智慧火溫。淨戒湯洗蕩身中佛性受¶
 持七法以自莊嚴。當爾比丘聰明利智皆悟聖¶
-意。以此修行功德成就。但登聖果。今時眾生¶
+意。以此修行功德成就。但登聖果。令時眾生¶
 愚癡鈍根。莫測其事。將世間水洗質礙身。自¶
 謂依經。豈非悟也。且如佛性非是凡形。煩惱
 <pb:KR6q0105_T_001-1273a>¶
